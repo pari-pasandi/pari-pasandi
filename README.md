@@ -1,7 +1,6 @@
 ## Ciao 👋
 
-This is Pari in her final year of PhD at Royal Holloway University of London. 
-
+This is Pari, a PhD candidate at Royal Holloway University of London. 
 
 - 🔭 I’m currently working on two behavioral experiments for the last 2 chapters of the thesis! for details contact me.
 - 🌱 I’m currently learning Otree for programming the experiments
